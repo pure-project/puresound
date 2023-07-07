@@ -2,7 +2,8 @@ package puresound
 
 import (
 	"io"
-	"puresound/private/impl"
+
+	"github.com/pure-project/puresound/private/impl"
 )
 
 type Recorder interface {

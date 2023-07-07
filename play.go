@@ -1,6 +1,6 @@
 package puresound
 
-import "puresound/private/impl"
+import "github.com/pure-project/puresound/private/impl"
 
 type PlayDevice interface {
 	IsPlayDevice() bool

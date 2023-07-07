@@ -7,7 +7,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"puresound/private/system/winmm"
+	"github.com/pure-project/puresound/private/system/winmm"
 )
 
 type recorder struct {

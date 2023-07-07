@@ -4,8 +4,9 @@ import (
 	"io"
 	"net/http"
 	"os"
-	"puresound"
 	"time"
+
+	"github.com/pure-project/puresound"
 )
 
 func simpleRecord() {

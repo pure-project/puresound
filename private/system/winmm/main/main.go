@@ -10,7 +10,7 @@ import (
 	"time"
 	"unsafe"
 
-	. "puresound/private/system/winmm"
+	. "github.com/pure-project/puresound/private/system/winmm"
 )
 
 type player struct {

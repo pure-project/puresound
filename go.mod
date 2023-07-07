@@ -1,4 +1,4 @@
-module puresound
+module github.com/pure-project/puresound
 
 go 1.14
 

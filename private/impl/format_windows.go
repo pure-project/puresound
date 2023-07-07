@@ -1,7 +1,7 @@
 package impl
 
 import (
-	"puresound/private/system/winmm"
+	"github.com/pure-project/puresound/private/system/winmm"
 )
 
 func newWaveFormatEx(sampleBits, sampleRate, channels int) *winmm.WaveFormatEx {

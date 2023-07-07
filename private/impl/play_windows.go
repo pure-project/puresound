@@ -3,7 +3,7 @@ package impl
 import (
 	"syscall"
 
-	"puresound/private/system/winmm"
+	"github.com/pure-project/puresound/private/system/winmm"
 )
 
 type playDevice struct {

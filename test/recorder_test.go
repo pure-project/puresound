@@ -1,8 +1,8 @@
 package test
 
 import (
+	"github.com/pure-project/puresound"
 	"os"
-	"puresound"
 	"testing"
 	"time"
 )
